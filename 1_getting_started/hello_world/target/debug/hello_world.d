@@ -1,0 +1,1 @@
+/home/irgz/Documents/development_and_programming/repositories/learning/rust_studies/1_getting_started/hello_world/target/debug/hello_world: /home/irgz/Documents/development_and_programming/repositories/learning/rust_studies/1_getting_started/hello_world/src/main.rs
