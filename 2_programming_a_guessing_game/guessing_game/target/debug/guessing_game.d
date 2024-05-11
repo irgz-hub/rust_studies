@@ -1,0 +1,1 @@
+/home/irgz/projects-wsl/personal/rust_studies/2_programming_a_guessing_game/guessing_game/target/debug/guessing_game: /home/irgz/projects-wsl/personal/rust_studies/2_programming_a_guessing_game/guessing_game/src/main.rs
