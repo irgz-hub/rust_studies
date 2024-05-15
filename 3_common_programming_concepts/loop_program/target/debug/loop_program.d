@@ -1,0 +1,1 @@
+/home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/loop_program/target/debug/loop_program: /home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/loop_program/src/main.rs

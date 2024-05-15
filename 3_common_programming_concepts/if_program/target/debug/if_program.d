@@ -1,0 +1,1 @@
+/home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/if_program/target/debug/if_program: /home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/if_program/src/main.rs

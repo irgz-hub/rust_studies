@@ -1,0 +1,1 @@
+/home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/variables/target/debug/variables: /home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/variables/src/main.rs
