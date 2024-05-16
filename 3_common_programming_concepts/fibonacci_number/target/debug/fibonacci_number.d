@@ -1,0 +1,1 @@
+/home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/fibonacci_number/target/debug/fibonacci_number: /home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/fibonacci_number/src/main.rs
