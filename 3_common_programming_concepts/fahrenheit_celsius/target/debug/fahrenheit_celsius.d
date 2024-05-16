@@ -1,0 +1,1 @@
+/home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/fahrenheit_celsius/target/debug/fahrenheit_celsius: /home/irgz/projects-wsl/personal/rust_studies/3_common_programming_concepts/fahrenheit_celsius/src/main.rs
